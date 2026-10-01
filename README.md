@@ -1,34 +1,71 @@
 # Ovo Market AI Command Center - Web PWA
 
-AI-powered Shopify store management interface.
+**One-Click Deployment Instructions**
 
-## Features
+## 🚀 Deploy Now
 
-- ✨ Real Shopify GraphQL API integration
-- 🤖 OpenAI-compatible AI assistant
-- 📊 Live store metrics and analytics
-- 📦 Product management
-- 🧾 Order tracking
-- ⚙️ Secure credential storage
-- 📱 PWA - works on iPhone, Android, and web
-- 🔒 No credentials exposed
+### Option 1: Vercel (Recommended - Fastest)
 
-## Deployment
+1. Open this link on your iPhone or computer:
+   ```
+   https://vercel.com/new/clone?repository-url=https://github.com/paridesalamanca-creator/OvoMarketWeb
+   ```
 
-This app is deployed on Vercel for instant global availability.
+2. Click **"Continue with GitHub"** and authorize Vercel
 
-## Configuration
+3. Click **"Deploy"** (no configuration needed)
 
-1. Open the app on your iPhone
+4. Wait 30-60 seconds for deployment to complete
+
+5. Vercel automatically shows your live URL (e.g., `https://ovomarket-web-xxxxx.vercel.app`)
+
+6. Open that URL on your iPhone and start using the app!
+
+### Option 2: Netlify (Alternative)
+
+1. Open this link:
+   ```
+   https://app.netlify.com/start/deploy?repository=https://github.com/paridesalamanca-creator/OvoMarketWeb
+   ```
+
+2. Click **"Connect to GitHub"**
+
+3. Authorize and click **"Deploy"**
+
+4. Get your live Netlify URL in 1-2 minutes
+
+## ✨ What You Get
+
+- ✅ Live, working app URL
+- ✅ Works on iPhone (open in Safari)
+- ✅ Can be installed as app on home screen
+- ✅ Real Shopify integration
+- ✅ Real OpenAI AI assistant
+- ✅ All data stored securely locally on your device
+- ✅ Free hosting, no credit card required
+
+## 📱 Using the App on iPhone
+
+1. Open the live URL from your deployment
 2. Enter your Shopify store domain
 3. Enter your Shopify Admin API token
 4. Enter your OpenAI API key
 5. Start managing your store with AI!
 
-## Technologies
+**To install as app on home screen:**
+- Tap Safari share button → Add to Home Screen
+- App appears on your iPhone home screen
+- Works like a native app
 
-- Next.js 14
-- React 18
-- TypeScript
-- Shopify GraphQL API
-- OpenAI API
+## Features
+
+- 🎯 Dashboard with real-time metrics
+- 📦 Product management
+- 🧾 Order tracking
+- ✨ AI Assistant (powered by OpenAI)
+- ⚙️ Settings & configuration
+- 🔐 Secure credential storage (local only)
+
+## Support
+
+GitHub: https://github.com/paridesalamanca-creator/OvoMarketWeb
